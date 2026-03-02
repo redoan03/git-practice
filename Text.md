@@ -4,3 +4,4 @@ Semester: 7th(running)
 Home Address:Songitkathi
 Martial Status: Unmarried
 DOB: 15/12/2000
+CGPA: 3.65
