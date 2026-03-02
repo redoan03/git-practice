@@ -3,3 +3,4 @@ ID: 24-56984-1
 Semester: 7th(running)
 Home Address:Songitkathi
 Martial Status: Unmarried
+DOB: 15/12/2000
